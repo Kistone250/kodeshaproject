@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>kodesha</title>
+</head>
+<body>
+	<div id="links">
+<a href="xxx">Registration</a>
+<a href="xxx">Request</a>
+<a href="xxx">Login</a>
+<a href="xxx">Admin</a>
+</div>
+<h1>AVAILABLE HOUSES!!!</h1>
+<div id="register">
+	<p>Enter First Name:</p><input type="text" name="fname">
+	<p>Enter Last Name:</p><input type="text" name="lname">
+	<p>Phone:</p><input type="text" name="phone">
+	<p>Enter Email:</p><input type="text" name="email">
+	<p>Create Password:</p><input type="Password" name="Password">
+	<p>Confirm Password:</p><input type="Password" name="Password">
+</div>
+<div id="footer">
+	<a href="xxx">HOME</a>
+<a href="xxx">ABOUT</a>
+<a href="xxx">SERVICES</a>
+<a href="xxx">CONTACTS</a>
+<p>copyrightKODESHA 2023 All Rights Reserved</p>
+<p>Kigali City-Nyarugenge</p>
+<p>+250798259610</p>
+<p>Email: denisquavoo@gmail.com</p>
+</div>
+</body>
+</html>
+<style type="text/css">
+	#links{
+		background: #115566;
+		height: 50px;
+	}
+	body{
+		margin: 0px;
+		padding: 0px;
+	}
+	a{
+		color: white;
+		padding: 15px;
+		margin: 5px;
+		text-decoration: none;
+		font-family: century;
+	}
+	a:hover{
+		color: brown;
+	}
+	h1{
+text-align:center;
+	}
+	#info{
+		background: #115566;
+		padding: 20px;
+		margin-top: 110px;
+	}
+	p{
+	text-align: center;
+	color: white;
+	padding: 5px;
+	}
+	#footer{
+		background-color: #131313;
+	}
+</style>
